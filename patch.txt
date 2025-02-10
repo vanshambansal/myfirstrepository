@@ -1,0 +1,5 @@
+--- newfile.txt	2025-01-29 14:38:13.204188300 +0530
++++ hotel.txt	2025-01-29 14:42:38.681052000 +0530
+@@ -0,0 +1 @@
++today is 29 jan
+\ No newline at end of file
